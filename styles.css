@@ -1,0 +1,11 @@
+#left_align{float:right; width:300px}
+
+#center_left_align{float:right; width:300px}
+
+#center_right_align{float: right; width:300px}
+
+img {
+	margin:25px;
+	padding:10px;
+	border:5px solid black;
+}
