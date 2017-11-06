@@ -1,16 +1,19 @@
+
+
 #left_align{float:right; width:300px}
 
 #center_left_align{float:right; width:300px}
 
 #center_right_align{float: right; width:300px}
 
+#right_align{
+	float:left;
+	
+}
+
 body{
 	margin-left:2em;
 	background-color:tan;
-}
-
-#name{
-	font-size:40px;
 }
 
 img {
@@ -22,10 +25,14 @@ img {
 
 #intro{
 	float:right;
-	font-size:26px;
+	font-size:28px;
 	margin-right:22em;
 }
 
 footer{
 	text-align: center;
+}
+
+.cursive{
+	font-family:cursive;
 }
