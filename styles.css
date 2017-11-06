@@ -4,8 +4,28 @@
 
 #center_right_align{float: right; width:300px}
 
+body{
+	margin-left:2em;
+	background-color:tan;
+}
+
+#name{
+	font-size:40px;
+}
+
 img {
 	margin:25px;
 	padding:10px;
 	border:5px solid black;
+	text-align:center;
+}
+
+#intro{
+	float:right;
+	font-size:26px;
+	margin-right:22em;
+}
+
+footer{
+	text-align: center;
 }
